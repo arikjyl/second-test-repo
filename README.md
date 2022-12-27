@@ -6,3 +6,7 @@ http://google.fi
 ```javascript
   console('Hello World');
 ```
+
+- [ ] Unhecked
+- [x] Checked
+- [ ] Unhecked
