@@ -9,4 +9,4 @@ http://google.fi
 
 - [ ] Unhecked
 - [x] Checked
-- [ ] Unhecked
+- [ ] Unhecked :cupid:
